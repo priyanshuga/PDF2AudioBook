@@ -5,4 +5,4 @@
 👉 Just download this code to your local file and run the code.
 
 ## Credits
- • [Priyanshu](https://t.me/priyanshugandhi
+ • [Priyanshu](https://t.me/priyanshugandhi)
